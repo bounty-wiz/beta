@@ -1,5 +1,5 @@
 /**
- * @file print_age.c
+ * @file print_age_and_letter.c
  * @brief get person age as input and prints it
  *
  * 
