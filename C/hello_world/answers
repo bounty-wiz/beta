@@ -1,0 +1,2 @@
+1. given the filr my_first_program.c, to build it_runs.out we would run:
+    gcc -o it_runs.out my_first_program.c
