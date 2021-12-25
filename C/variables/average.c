@@ -6,7 +6,7 @@
  *
  * version log
  * ------------
- * version 0.1.0 by <author>, 25.12.2021
+ * version 0.1.0 by bounty_wiz, 25.12.2021
  *
  */
 
